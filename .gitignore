@@ -1,0 +1,9 @@
+.DS_Store
+config.codekit
+config.codekit3
+/devAssets
+/jsDEV
+/cssdev
+/audits
+/demos
+*.js
